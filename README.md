@@ -21,15 +21,21 @@ The analysis aims to address key questions for Social Buzz, uncovering insights 
   - Used SUMIF to calculate the total score for each content category.
   - Removed blank rows to ensure data integrity.
   - Utilized Find and Replace for necessary data adjustments.
-![Excel 1](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/f7afad80-c535-463a-849a-f602ba5b2d11)
-![Excel 2](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/8514e320-2619-420a-8c90-5704b3c340fb)
-![Excel 3](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/e24c589c-6662-4ec1-9b61-aa3af0ca4f88)
-![Excel 4](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/1bb0a196-732d-4dd7-8d16-8384098dbe17)
+    
+    ![Excel 1](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/f7afad80-c535-463a-849a-f602ba5b2d11)
+    ![Excel 2](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/8514e320-2619-420a-8c90-5704b3c340fb)
+    ![Excel 3](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/e24c589c-6662-4ec1-9b61-aa3af0ca4f88)
+    ![Excel 4](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/1bb0a196-732d-4dd7-8d16-8384098dbe17)
 
 
 #### Tableau:
-  - Implemented Table Calculation (Rank) to analyze and rank data points effectively.
-  - Used COUNT and SUM functions for aggregating and summarizing data.
+  - Implemented Table Calculation (Rank) to analyze and rank Contnet Category Popularity Score.
+  - Used COUNT, SUM and AVG functions for aggregating and summarizing the Content Category, Reaction Types, Reactions and Score.
+    
+    ![Tableau 1](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/20bee7ca-e1a0-40b2-a0a4-89243b453d3d)
+    ![Tableau 2](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/04a61366-00d6-4f3d-b4a0-9b495eca519e)
+    ![Tableau 3](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/aed1bbf2-714b-43d5-b5d6-a982ac0976c6)
+    ![Tableau 4](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/a89b5657-014f-4226-9072-12855a738105)
 
 These tools facilitated a comprehensive analysis, providing valuable insights for decision-making.
 
