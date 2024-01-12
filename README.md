@@ -39,3 +39,13 @@ The analysis aims to address key questions for Social Buzz, uncovering insights 
 
 These tools facilitated a comprehensive analysis, providing valuable insights for decision-making.
 
+## Findings
+
+ 1.  Identify and analyze the top 5 content categories by popularity score on Social Buzz.
+    ![Top 5 content categories](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/c158851b-424f-482b-b13c-359629f3cf0a)
+
+     
+Animals is the most popular content category with a high score of 74965, indicating significant user engagement. This is followed by Science, Healthy Eating, Technology and Food which all demonstrates a substantial users interest in wellness, tech, and culinary contents
+
+
+
