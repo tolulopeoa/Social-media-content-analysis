@@ -70,12 +70,9 @@ These tools facilitated a comprehensive analysis, providing valuable insights fo
      - Technology Content: 'Interested' is the leading reaction type, showcasing user engagement and curiosity in technology-related posts.
      - Food Content: 'Hate' is the top reaction type, which could indicate strong opinions or critiques associated with food-related content.
        
-         Interacting with the dashboard will show a drill down of the user reaction types by the top 5 content categories 
-        (https://public.tableau.com/views/ContentAnalysis_16802957754920/SOCIALBUZZDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
-
-
-   These findings underline the diverse nature of user reactions across different content categories, reflecting a mix of emotions, curiosity, and, in some cases, polarized sentiments.
-
+ These findings underline the diverse nature of user reactions across different content categories, reflecting a mix of emotions, curiosity, and, in some cases, polarized sentiments.
+ 
+ [Interact with Dashboard for further insights(http://tinyurl.com/3ynaaks4)]
 
 4. #### Analyze the prevalent content types posted by users on the platform.
    ![Social Buzz 11](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/2ee7879c-c8fa-4f83-af81-5f5a81d602f3)
@@ -115,11 +112,9 @@ These tools facilitated a comprehensive analysis, providing valuable insights fo
        - **Peak Days:** Monday and Wednesday.
          Food-related content peaks at the beginning and middle of the week.
          
-         Interacting with the dashboard will show a drill down of the user reaction types by the top 5 content categories 
-        (https://public.tableau.com/views/ContentAnalysis_16802957754920/SOCIALBUZZDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
-         
    These patterns help us understand the temporal dynamics of user engagement, enabling strategic content planning for maximum impact.
-
+   
+   [Interact with Dashboard for further insights(http://tinyurl.com/3ynaaks4)]
 
 
 ## Conclusion
@@ -136,3 +131,9 @@ The analysis of Social Buzz's content data from June 2020 to June 2021 has provi
    - Stay adaptable and responsive to emerging content trends and user interests.
 
 In conclusion, the insights obtained from this analysis provide a foundation for informed decision-making and strategy refinement for Social Buzz. Continuous monitoring and adaptation to user preferences will be key to maintaining and growing engagement on the platform.
+
+### DASHBOARD
+
+![SOCIAL BUZZ DASHBOARD](https://github.com/tolulopeoa/Social-media-content-analysis/assets/102050942/06479c4b-1e1f-4051-bcd5-33d0aa41052d)
+
+[Interact with Dashboard for further insights(http://tinyurl.com/3ynaaks4)]
