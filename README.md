@@ -69,6 +69,10 @@ These tools facilitated a comprehensive analysis, providing valuable insights fo
      - Healthy Eating Content: Surprisingly, 'Hate' emerges as the top reaction type, potentially reflecting polarized opinions or debates on healthy eating topics.
      - Technology Content: 'Interested' is the leading reaction type, showcasing user engagement and curiosity in technology-related posts.
      - Food Content: 'Hate' is the top reaction type, which could indicate strong opinions or critiques associated with food-related content.
+       
+         Interacting with the dashboard will show a drill down of the user reaction types by the top 5 content categories 
+        (https://public.tableau.com/views/ContentAnalysis_16802957754920/SOCIALBUZZDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
    These findings underline the diverse nature of user reactions across different content categories, reflecting a mix of emotions, curiosity, and, in some cases, polarized sentiments.
 
@@ -110,8 +114,12 @@ These tools facilitated a comprehensive analysis, providing valuable insights fo
        Food
        - **Peak Days:** Monday and Wednesday.
          Food-related content peaks at the beginning and middle of the week.
-
+         
+         Interacting with the dashboard will show a drill down of the user reaction types by the top 5 content categories 
+        (https://public.tableau.com/views/ContentAnalysis_16802957754920/SOCIALBUZZDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+         
    These patterns help us understand the temporal dynamics of user engagement, enabling strategic content planning for maximum impact.
+
 
 
 ## Conclusion
